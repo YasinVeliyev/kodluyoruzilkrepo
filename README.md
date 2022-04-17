@@ -17,7 +17,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 - Repoyu bilgisayarımıza aldıktan sonra içine README.md adında bir Markdown dosya oluşturun.
 - Markdown içeriği aşağıdaki gibi olacak şekilde düzenleyin. Markdown için önceki konumuza bakabilirsiniz.
 
-# Detaylı bakmak için [Örnek Readme Dosyasını](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/ornekreadme.md) inceleyebilirsiniz.
+## Detaylı bakmak için [Örnek Readme Dosyasını](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/ornekreadme.md) inceleyebilirsiniz.
 
 - Markdown dosyanızın içine projemizin bir resmini koyun.
 - Repomuzun içine bir adet index.html dosyası oluşturun.
